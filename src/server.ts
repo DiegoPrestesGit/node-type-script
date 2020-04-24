@@ -1,10 +1,9 @@
 import express from 'express'
+import routes from './routes/index'
 
 const app = express()
 
-app.get('/', (request, response) => {
-  return response.json({ message: 'restartando' })
-})
+app.use(routes)
 
 app.listen(3333, () => {
   console.log('all right')
