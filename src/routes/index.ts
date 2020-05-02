@@ -6,4 +6,8 @@ routes.get('/', (request, response) => {
   return response.json({ message: 'restartando' })
 })
 
+function xesque () {
+
+}
+
 export default routes
