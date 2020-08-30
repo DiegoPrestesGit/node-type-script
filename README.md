@@ -1,6 +1,6 @@
 <div align="center">
 
-# TEMPLATE TYPESCRIPT FOR SMALL PROJECTS
+# TEMPLATE TYPESCRIPT FOR SMALL PROJECTS :milky_way:
 
 <img alt="longRoadAhead" src="https://thumbs.gfycat.com/CanineSameEwe-small.gif" />
 <blockquote >"You have to be lost to find places that can't be found"</blockquote>

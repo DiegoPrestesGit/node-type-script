@@ -1,29 +1,31 @@
 <div align="center">
 
-  # TEMPLATE FOR TYPESCRIPT :milky_way:
+  # TODO TEMPLATE FOR TYPESCRIPT :milky_way:
 
-  <img alt="longRoadAhead" src="https://thumbs.gfycat.com/CanineSameEwe-small.gif" />
 </div>
 
 </br>
 
 
-## :new_moon: TODO 
+## :new_moon: POOL OF TODOS
 
-* [ ] implement the folders structure (no need files, just the base structure)
-* [ ] create a simple user model to exemplify, just to illustrate the model
-* [ ] create a simple repository CRUD to exemplify, just to illustrate a repository in this template
-* [ ] create the routes for my express routing, 
-* [ ] create some verification in the middlewares just to put them to work too
 * [ ] do some PostgreSQL (with Docker), probably use the typeORM with it for some DB configuration in the database folder
-* [ ] create the service folder with some business rules
-* [ ] create a config folder in case i need some setup for my implementations
-* [ ] create a AppError class in the errors folder
-* [ ] implement some tests for the services with JestJS
+* [ ] create some config files in case i need some setup for my implementations
+* [ ] create some middlewares to run with my application
+* [ ] implement tests
+  * [ ] create a "BusinessRules.md" to map all the tests that will be implemented with JestJS
+  * [ ] implement some tests for the services with JestJS
+* [ ] configure Insomnia with all the routes and facilities and goodies and resources that will help me in the development process
 
 </br>
 
-## :first_quarter_moon: IN PROCESS
+## :last_quarter_moon: NEXT TODOS TODO (get it? ( ͡° ͜ʖ ͡°))
+
+* [ ] configure prettier to organize my code and do it in a prettier way (get it? ( ͡° ͜ʖ ͡°))
+
+</br>
+
+## :first_quarter_moon: DOING 
 
 </br>
 
@@ -32,5 +34,12 @@
 ## :full_moon: DONE (for now) ✓
 
 * [x] create the first TODO.md and README.me
+* [x] create the AppError class for my errors folder
+* [x] implement the folders structure, just the basic
+* [x] create a simple user model to exemplify, just to illustrate the model
+* [x] create a simple repository CRUD to exemplify, just to illustrate a repository in this template
+* [x] create the routes for my express routing, 
+* [x] create the service folder with some business rules
+* [x] create dtos folder with some dto for example
 
 </br>
