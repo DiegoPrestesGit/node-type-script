@@ -21,7 +21,7 @@ The plan is: you go, take the template and do your thing. In ten minutes you see
 
 Working on it...But the plan is something like that:
 
-<img alt="JinxedFixed" src="https://lh3.googleusercontent.com/FU5j3qSCoxY2XGbqjG5sCabwB5O_yxMcD7rQM_td-jj2mhgILNSALAyRNVp27oJ0XIZVBc9tbVLHKulisM8_tiW6EosCVe4OD60NHbqAYoOQNWHHl9I780Ktd2Tvw2SIU68lP1f1NfWAkdRuoatYXyba8cz_HbhYBNyT-3gctF33nNIQFQdNG94oZLOJZkeJr5gJRUfFulDlfOvgx5CHVSDEYc0ahrMUdA3L7-eCba464CdBmSNhfu-11ls1pzZoXNe9vagczKWwAKuWCXNpveQchbMoXTOjeUGwWOQewQrOcB3nC0oD-Tw_vitm-xBnJsS-Oo7HvJakjtrJ8qeCfbWtbjbciFB3gxDlee2_xLL7zmLXJpt61gnNTcPWlUZMuYLpQauzWk1Tx7zOjqzu9vUYsNUumBYDU9rOVtZlkalWhl4NvQACAx214pmyUxN0lLD5-mp8c3_BOwgMpneFYhX8iMqC72bXEUud61tpGzFjJKddrthGfm8Jrke5L6Jdrk41fp8hzay5nZRL3kJQi6wdFMNJlrnfthPoNJroLbRSzdjfZyItZGWhe93Gy-GJeyeemH3OfNxXobXI0RzJF7CZcmtPyVTz65w4erNNYEbEIb_dKjJb1NKAttVWWWROzM_Tv3UxH6JOs_7aEaaBIn4AsPRFd2Yqmt22ppqhCGiAWfTdV3qqkJQ8d1Tg=w270-h140-no?authuser=0" />
+<img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
 
 ## Contributing :heart:
 
