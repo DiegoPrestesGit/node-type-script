@@ -1,5 +1,5 @@
-import ExampleModel from '../../models/Example'
-import ExampleDTO from '../../dtos/ExampleDTO'
+import ExampleModel from '../../models/example'
+import ExampleDTO from '../../dtos/example-dto'
 
 export default interface ExampleRepositoryInterface {
   create(data: ExampleDTO): Promise<ExampleModel>
