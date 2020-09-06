@@ -21,11 +21,12 @@
 
 ## :last_quarter_moon: NEXT TODOS TODO (get it? ( ͡° ͜ʖ ͡°))
 
-* [ ] configure prettier to organize my code and do it in a prettier way (get it? ( ͡° ͜ʖ ͡°))
-
 </br>
 
 ## :first_quarter_moon: DOING 
+
+* [ ] put all the files with the best practices
+* [ ] create a simple debug configuration
 
 </br>
 
@@ -41,5 +42,6 @@
 * [x] create the routes for my express routing, 
 * [x] create the service folder with some business rules
 * [x] create dtos folder with some dto for example
+* [x] configure prettier to organize my code and do it in a prettier way (get it? ( ͡° ͜ʖ ͡°))
 
 </br>

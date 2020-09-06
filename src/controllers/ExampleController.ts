@@ -1,4 +1,4 @@
-import { Request, Response } from 'express'
+import { Request, Response, Application, CookieOptions, Errback, ErrorRequestHandler, Express } from 'express'
 
 import ExampleListService from '../services/ExampleServices/ExampleListService'
 import ExampleCreateService from '../services/ExampleServices/ExampleCreateService'
@@ -43,7 +43,7 @@ export default class ExampleController {
 
     const exampleDelete = new ExampleDeleteService()
     
-    await exampleDelete.execute(exampleRepository, { id });
+    await exampleDelete.execute(exampleRepository, id);
 
     response.status(200).json()
   }
