@@ -25,9 +25,6 @@
 
 ## :first_quarter_moon: DOING 
 
-* [ ] put all the files with the best practices
-* [ ] create a simple debug configuration
-
 </br>
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
@@ -43,5 +40,7 @@
 * [x] create the service folder with some business rules
 * [x] create dtos folder with some dto for example
 * [x] configure prettier to organize my code and do it in a prettier way (get it? ( ͡° ͜ʖ ͡°))
+* [x] put all the files with the best practices
+* [x] create a simple debug configuration
 
 </br>
