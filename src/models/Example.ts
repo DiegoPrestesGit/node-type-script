@@ -1,7 +1,7 @@
 export default class Example {
   public readonly id: string
-  name: string
-  email: string
+  name: string;
+  email: string;
 
   constructor(id: string, name: string, email: string) {
     this.id = id

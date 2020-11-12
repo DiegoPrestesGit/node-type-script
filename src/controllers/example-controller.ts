@@ -1,12 +1,4 @@
-import {
-  Request,
-  Response,
-  Application,
-  CookieOptions,
-  Errback,
-  ErrorRequestHandler,
-  Express
-} from 'express'
+import { Request, Response } from 'express'
 
 import ExampleListService from '../services/ExampleServices/example-list-service'
 import ExampleCreateService from '../services/ExampleServices/example-create-service'
