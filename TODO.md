@@ -9,10 +9,8 @@
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] do some PostgreSQL (with Docker), probably use the typeORM with it for some DB configuration in the database folder
 * [ ] create some config files in case i need some setup for my implementations
 * [ ] make some changes in the ReadMe file
-* [ ] create some middlewares to run with my application
 * [ ] implement tests
   * [ ] create a "BusinessRules.md" to map all the tests that will be implemented with JestJS
   * [ ] implement some tests for the services with JestJS
@@ -25,6 +23,8 @@
 </br>
 
 ## :first_quarter_moon: DOING 
+
+* [ ] do some PostgreSQL (with Docker), probably use the typeORM with it for some DB configuration in the database folder
 
 </br>
 
