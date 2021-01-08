@@ -1,6 +1,6 @@
-import UserModel from '../../models/user'
-import UserRepository from '../../repositories/user-repository'
-import UserDTO from '../../dtos/user-dto'
+import UserModel from '../../models/User'
+import UserRepository from '../../repositories/UserRepository'
+import UserDTO from '../../dtos/UserDTO'
 
 export default class {
   public async execute(

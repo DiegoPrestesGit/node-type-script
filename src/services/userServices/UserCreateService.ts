@@ -1,5 +1,5 @@
-import UserModeel from '../../models/user'
-import UserRepository from '../../repositories/user-repository'
+import UserModeel from '../../models/User'
+import UserRepository from '../../repositories/UserRepository'
 
 interface RequestDTO {
   name: string

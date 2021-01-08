@@ -1,5 +1,5 @@
-import UserModel from '../../models/user'
-import UserDTO from '../../dtos/user-dto'
+import UserModel from '../../models/User'
+import UserDTO from '../../dtos/UserDTO'
 
 export default interface IUserRepository {
   create(data: UserDTO): Promise<UserModel>

@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express'
 import cors from 'cors'
 
-import AppError from './errors/app-error'
+import AppError from './errors/AppError'
 import routes from './routes/index.routes'
 
 const app = express()
