@@ -9,26 +9,17 @@
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] create some config files in case i need some setup for my implementations
-* [ ] make some changes in the ReadMe file
-* [ ] implement tests
-  * [ ] create a "BusinessRules.md" to map all the tests that will be implemented with JestJS
-  * [ ] implement some tests for the services with JestJS
+* [ ] do some PostgreSQL (with Docker), probably use the typeORM with it for some DB configuration in the database folder
+* [ ] implement some tests for the services with JestJS
 * [ ] configure Insomnia with all the routes and facilities and goodies and resources that will help me in the development process
-
-</br>
-
-## :last_quarter_moon: NEXT TODOS TODO (get it? ( ͡° ͜ʖ ͡°))
 
 </br>
 
 ## :first_quarter_moon: DOING 
 
-* [ ] do some PostgreSQL (with Docker), probably use the typeORM with it for some DB configuration in the database folder
+<img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
 
 </br>
-
-<img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
 
 ## :full_moon: DONE (for now) ✓
 
@@ -43,5 +34,6 @@
 * [x] configure prettier to organize my code and do it in a prettier way (get it? ( ͡° ͜ʖ ͡°))
 * [x] put all the files with the best practices
 * [x] create a simple debug configuration
+* [x] make some changes in the ReadMe file
 
 </br>

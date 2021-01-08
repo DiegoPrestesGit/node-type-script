@@ -9,24 +9,18 @@
 
 ## Install :wrench:
 
-You clone the repo and run ``yarn`` and that's it. It still early, but it will be GREAT.
+* Clone the repo and run ``yarn`` or ``npm install``
 
-*NOTE: When other features come into effect, such as database setup, I will be updating this install section.*
+* Highly  recommend the Visual Studio Code extension "ESLint", it will apply the standards of my code in the right way. *Sometimes, in the right bottom corn of your VSCode will have somethin like: <img alt="longRoadAhead" src="https://raw.githubusercontent.com/Microsoft/vscode-eslint/master/images/2_1_10/eslint-status.png" /> , if that's the case, just click on that icon and allow it.*
+
+* Inside the `ormconfig.example.json` is the configuration for the database (using postgres and typeORM), rename or create a new `ormconfig.json` file to configure the database *(inside the ``./src/database`` you can find more about the database and its entities).*
 
 ## Usage
 
-The plan is: you go, take the template and do your thing. In ten minutes you see that simple structure and start your simple project. This humble template is _NOT_ intended for large projects, you could start with it and than do some refactor to a design pattern down the road. But for small projects that we do to get some XP, it will be perfect.
-
-## Roadmap
-
-Working on it...But the plan is something like that:
+The plan is: you go, take the template and do your thing. In ten minutes you see that simple structure and start your simple project. This humble template is _NOT_ intended for large projects, you could start with it and than do some refactor to a design pattern down the road. But for small projects that we do to get some XP, it will be great.
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
 
-## Contributing :heart:
-
-Feel free to use this template or propose some goodies for it. After all it is all public.
-
 ## License
 
-MIT License © Template Node-Typescript
+MIT License © Template for Typescript Projects

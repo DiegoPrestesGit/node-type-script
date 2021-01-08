@@ -1,6 +1,6 @@
 {
-  "name": "template-node-type-script",
-  "version": "1.0.0",
+  "name": "typescript-template",
+  "version": "2.1.0",
   "main": "index.js",
   "repository": "https://github.com/DiegoPrestesGit/template-node-type-script.git",
   "author": "Diego Prestes <diegoprestes.git@hotmail.com>",

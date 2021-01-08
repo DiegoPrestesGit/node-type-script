@@ -3,6 +3,7 @@ import cors from 'cors'
 
 import AppError from './errors/AppError'
 import routes from './routes/index.routes'
+import './database'
 
 const app = express()
 app.use(cors())
@@ -27,5 +28,5 @@ app.use((err: Error, _: Request, response: Response) => {
 })
 
 app.listen(3333, () => {
-  console.log('all right')
+  console.log('Top marks for not trying 🚀')
 })
