@@ -28,5 +28,5 @@ app.use((err: Error, _: Request, response: Response) => {
 })
 
 app.listen(3333, () => {
-  console.log('Top marks for not trying 🚀')
+  console.log('LISTENING TO YOUR REQUESTS')
 })
