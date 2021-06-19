@@ -1,9 +1,9 @@
 import { v4 as uuidv4 } from 'uuid'
 
-import IUserRepository from './models/IUserRepository'
-import UserDTO from '../dtos/UserDTO'
+import IUserRepository from '../src/repositories/models/IUserRepository'
+import UserDTO from '../src/dtos/UserDTO'
 import UserModel from '../models/User'
-import AppError from '../errors/AppError'
+import AppError from './AppError'
 
 export default class UserRepository implements IUserRepository {
   private users: UserModel[] = []

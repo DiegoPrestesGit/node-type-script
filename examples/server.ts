@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express'
 import cors from 'cors'
 
-import AppError from './errors/AppError'
+import AppError from './AppError'
 import routes from './routes/index.routes'
 import './database'
 
@@ -28,5 +28,5 @@ app.use((err: Error, _: Request, response: Response) => {
 })
 
 app.listen(3333, () => {
-  console.log('LISTENING TO YOUR REQUESTS')
+  console.log('up n runin')
 })
